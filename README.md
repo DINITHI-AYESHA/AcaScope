@@ -12,17 +12,15 @@
 
 ## Overview
 
-**AcaScope** is an individual software development project focused on analyzing academic performance and identifying students who may need additional academic support.
+AcaScope is a web-based Academic Decision Support System designed to help educators monitor student academic performance, analyze academic data, identify potentially at-risk students, and predict academic outcomes using machine learning.
 
-The system aims to transform academic data into meaningful insights through data analysis, interactive visualizations, and machine learning-based predictions.
-
-It is designed to help educators monitor student performance, understand academic trends, and make more informed decisions using data.
+The system provides interactive dashboards, academic performance analytics, predictive insights, and reporting facilities to support data-driven academic decision-making.
 
 ## Problem Statement
 
-Educational institutions generate academic data through assessments, examinations, and attendance records. However, identifying performance trends and students who may be at risk can be challenging when information is not effectively analyzed.
+Educational institutions collect large amounts of student academic data. However, analyzing this information manually can make it difficult to identify performance patterns and students who may require additional academic support.
 
-AcaScope aims to address this challenge by providing a centralized platform for academic performance analysis and predictive insights.
+AcaScope aims to address this challenge by transforming academic data into meaningful insights through data analytics, visualization, and machine learning.
 
 ## Project Objectives
 
@@ -123,11 +121,13 @@ The application will be organized into separate components for the backend, fron
 
 ## Future Enhancements
 
-- Advanced predictive analytics.
-- Automated PDF performance reports.
-- Additional academic datasets and analysis capabilities.
-- Improved model performance and explainability.
-- Further deployment and scalability improvements.
+Integration with university academic systems.
+
+Additional predictive analytics capabilities.
+
+Expanded academic reporting.
+
+Student-facing features.
 
 ## Project Status
 
